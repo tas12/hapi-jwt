@@ -1,0 +1,25 @@
+{
+  "name": "hapi-jwt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "env2": "^2.1.1",
+    "hapi": "^15.2.0",
+    "hapi-auth-jwt2": "^7.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tas12/hapi-jwt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tas12/hapi-jwt/issues"
+  },
+  "homepage": "https://github.com/tas12/hapi-jwt#readme"
+}
